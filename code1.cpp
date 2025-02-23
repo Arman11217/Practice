@@ -2,5 +2,7 @@
 using namespace std;
 int main(){
 
-    cout<<"This is code 1";
+    cout<<"This is practice code";   
+    cout<<"This is  code 1";
+
 }

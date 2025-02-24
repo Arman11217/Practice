@@ -9,6 +9,8 @@ int main(){
     set<int> s={s1,s2,s3,s4};
     int need=4-s.size();
     cout<<need<<endl;
+cout<<Hello<<endl;
+
 
 
 }
